@@ -59,9 +59,9 @@ body.swal2-iosfix {
   .swal2-modal .swal2-spacer {
     height: 10px;
     color: transparent;
-    border: 0; }
+    border: 1; }
   .swal2-modal .swal2-styled {
-    border: 0;
+    border: 1;
     border-radius: 3px;
     box-shadow: none;
     color: #fff;
