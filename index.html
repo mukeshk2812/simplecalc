@@ -294,7 +294,7 @@ materialdropdown.addEventListener('click', function() {
                 if($("#function-box").val() == "*"){ans = parseFloat($("#first-box").val()) * parseFloat($("#second-box").val());}
                 if($("#function-box").val() == "-"){ans = parseFloat($("#first-box").val()) - parseFloat($("#second-box").val());}
                 if($("#function-box").val() == "+"){ans = parseFloat($("#first-box").val()) + parseFloat($("#second-box").val());}
-
+                console.log('hacktober ki maa ka bharosa');
                 /* adding first to history */
                 $("#input-box").val(ans);
                 $("#history-box").val( $("#first-box").val() + "\t" + $("#function-box").val() + "\t" + $("#second-box").val() + "\t=\t" + ans + '\n\n' + $("#history-box").val() );
