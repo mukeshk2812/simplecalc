@@ -21,7 +21,7 @@ body.swal2-iosfix {
   right: 0;
   padding: 10px;
   background-color: transparent;
-  z-index: 1060; }
+  z-index: 106000; }
   .swal2-container:not(.swal2-in) {
     pointer-events: none; }
   .swal2-container.swal2-fade {
