@@ -15,6 +15,7 @@ console.log("I am noob coder");
 // program to create a simple calculator using the if...else...if in JavaScript.  
 // take the operator from the user through prompt box in JavaScript.  
 const operator = prompt('Enter operator to perform the calculation ( either +, -, * or / ): ');  
+// 
   
 // accept the number from the user through prompt box  
 const number1 = parseFloat(prompt ('Enter the first number: '));  
