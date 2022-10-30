@@ -7,7 +7,7 @@ body.swal2-iosfix {
   left: 0;
   right: 0; }
 
-.swal2-container {
+.swal2-container   {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
