@@ -5,6 +5,8 @@ if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c
 
 console.log("that was wrong comment");
 var = 10;
+var=10;
+
 console.log(var);
 console.log("hello world");
 console.log("I am noob coder");
