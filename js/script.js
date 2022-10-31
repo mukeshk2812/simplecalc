@@ -39,4 +39,5 @@ else {
 }  
   
 // display the result of the Calculator  
-window.alert(" Result is" + result);  
+window.alert(" Result is" + result); 
+document.write("done");
