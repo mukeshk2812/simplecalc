@@ -7,7 +7,6 @@ body.swal2-iosfix {
   left: 0;
   right: 0; }
 
-.swal2-container   {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -15,7 +14,7 @@ body.swal2-iosfix {
       -ms-flex-align: center;
           align-items: center;
   position: fixed;
-  top: 0;
+  top:  0;
   left: 0;
   bottom: 0;
   right: 0;
@@ -28,7 +27,7 @@ body.swal2-iosfix {
     -webkit-transition: background-color .1s;
     transition: background-color .1s; }
   .swal2-container.swal2-in {
-    background-color: rgba(0, 0, 0, 0.4); }
+    background-color: rgba(0, 0, 0, 0.3); }
 
 .swal2-modal {
   background-color: #fff;
